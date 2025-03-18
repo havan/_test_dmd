@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    { "display_type": "number", "trait_type": "Dexterity", "value": 2120 },
+    { "display_type": "number", "trait_type": "Strength", "value": 255 },
+    { "display_type": "number", "trait_type": "Magic", "value": 21 }
+  ],
+  "date": "2025-03-19",
+  "description": "Camino Network",
+  "edition": 3,
+  "external_url": "https://camino.network/",
+  "image": "https://raw.githubusercontent.com/havan/_test_dmd/refs/heads/main/image2.webp",
+  "name": "Test dNFT"
+}
