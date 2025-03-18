@@ -2,6 +2,7 @@
   "attributes": [
     { "display_type": "number", "trait_type": "Dexterity", "value": 120 },
     { "display_type": "number", "trait_type": "Strength", "value": 55 }
+    { "display_type": "number", "trait_type": "Magic", "value": 1 }
   ],
   "date": "2025-03-19",
   "description": "Camino Network",
